@@ -1,0 +1,27 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "description": "Docker test api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titanht/docker-test.git"
+  },
+  "keywords": [
+    "docker",
+    "express"
+  ],
+  "author": "Hayelom Tizazu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/titanht/docker-test/issues"
+  },
+  "homepage": "https://github.com/titanht/docker-test#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
